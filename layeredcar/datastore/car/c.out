@@ -1,0 +1,27 @@
+mode: set
+assignments/layeredcar/datastore/car/car.go:14.32,16.2 1 1
+assignments/layeredcar/datastore/car/car.go:18.61,23.16 5 1
+assignments/layeredcar/datastore/car/car.go:30.2,31.16 2 1
+assignments/layeredcar/datastore/car/car.go:34.2,34.18 1 1
+assignments/layeredcar/datastore/car/car.go:23.16,24.27 1 1
+assignments/layeredcar/datastore/car/car.go:27.3,27.26 1 1
+assignments/layeredcar/datastore/car/car.go:24.27,26.4 1 0
+assignments/layeredcar/datastore/car/car.go:31.16,33.3 1 0
+assignments/layeredcar/datastore/car/car.go:36.66,39.16 3 1
+assignments/layeredcar/datastore/car/car.go:43.2,43.18 1 1
+assignments/layeredcar/datastore/car/car.go:55.2,55.17 1 1
+assignments/layeredcar/datastore/car/car.go:39.16,41.3 1 1
+assignments/layeredcar/datastore/car/car.go:43.18,46.17 3 1
+assignments/layeredcar/datastore/car/car.go:52.3,52.23 1 1
+assignments/layeredcar/datastore/car/car.go:46.17,47.28 1 0
+assignments/layeredcar/datastore/car/car.go:50.4,50.29 1 0
+assignments/layeredcar/datastore/car/car.go:47.28,49.5 1 0
+assignments/layeredcar/datastore/car/car.go:57.61,61.16 4 1
+assignments/layeredcar/datastore/car/car.go:64.2,64.17 1 1
+assignments/layeredcar/datastore/car/car.go:61.16,63.3 1 1
+assignments/layeredcar/datastore/car/car.go:67.76,69.16 2 1
+assignments/layeredcar/datastore/car/car.go:72.2,72.18 1 1
+assignments/layeredcar/datastore/car/car.go:69.16,71.3 1 1
+assignments/layeredcar/datastore/car/car.go:75.47,77.16 2 1
+assignments/layeredcar/datastore/car/car.go:82.2,82.12 1 1
+assignments/layeredcar/datastore/car/car.go:77.16,80.3 2 1
